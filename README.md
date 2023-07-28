@@ -1,5 +1,10 @@
-# AnsibleSNOWIntegration
+# Integration of RedHat Ansible Automation Platform with ServiceNow
+Steps involved 
 
+1. Install Virtual box on Windows
+2. Install RHEL 9 on Virtual box
+3. Install RedHat Ansible Automation Platform on RHEL
+4. Install servicenow.itsm on RHEL
 
 command to restart automation-controller-service 
 > automation-controller-service restart
