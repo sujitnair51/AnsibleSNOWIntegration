@@ -1,0 +1,13 @@
+---
+- hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Create new incident
+      servicenow.itsm.incident:
+        state: new
+        caller: ""
+        instance:
+          username: admin
+          password: pass
+          host:https://<instanceid>.service-now.com
+        short_description: Demo Incident
