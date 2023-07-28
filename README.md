@@ -1,4 +1,4 @@
-# Integration of RedHat Ansible Automation Platform with ServiceNow
+# Integration of RedHat Ansible Automation Platform with ServiceNow (draft)
 Steps involved 
 
 1. Install Virtual box on Windows
