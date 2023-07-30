@@ -20,8 +20,9 @@ start the virtual machine
 begin installation
 Reboot the machine
 accept licence agreement > register the system either through GUI or using the following commad
+```
    # subscription-manager register --username <username> --password <password> --auto-attach
-   
+```
 
 finish the configuation
 5. Install RedHat Ansible Automation Platform on RHEL
